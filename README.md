@@ -12,7 +12,7 @@ To install this project onto your own computer and review the code, simply clone
 
 Here is a screenshot of the live project:
 
-![A screenshot of the full webpage](./assets/images/webpage-screenshot.png)
+![A screenshot of the full webpage](./assets/images/marketing-screenshot.png)
 
 ## License
 
