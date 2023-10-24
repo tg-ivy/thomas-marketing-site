@@ -14,6 +14,10 @@ Here is a screenshot of the live project:
 
 ![A screenshot of the full webpage](./assets/images/marketing-screenshot.png)
 
+## Credits
+
+edX Front-End Web Development Bootcamp
+
 ## License
 
 This repo uses a standard MIT license. For more info on this license, refer to the license file, or [click here](https://choosealicense.com/licenses/mit/).
