@@ -16,4 +16,4 @@ Here is a screenshot of the live project:
 
 ## License
 
-This repo uses a standard MIT license. For my info on this license, [click here](https://choosealicense.com/licenses/mit/).
+This repo uses a standard MIT license. For my info on this license, refer to the license file, or [click here](https://choosealicense.com/licenses/mit/).
