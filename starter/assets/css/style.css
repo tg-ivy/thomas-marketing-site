@@ -1,3 +1,4 @@
+/* Global CSS for the whole document */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* CSS for the hero image */
 .hero {
     height: 800px;
     background-image: url(../images/digital-marketing-meeting.jpg);
@@ -91,11 +93,13 @@ p {
     color: #ffffff;
 }
 
+/* This is a consolidation for the aside headings. If more h3 headings are to be added at a later date, in a different section, this selector must be adjusted*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* CSS for the aside clipart*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -116,6 +120,7 @@ h3 {
     max-height: 200px;
 }
 
+/* This is a consolidation for the main section headings. If more h2 headings are to be added at a later date, in a different section, this selector must be adjusted*/
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -128,6 +133,8 @@ h2 {
     text-align: center;
 }
 
+/* Margin bottom added to counter h2 selector above. Font size and margin bottom here take higher specificity */
 .footer h2 {
     font-size: 20px;
+    margin-bottom: 0px;
 }
